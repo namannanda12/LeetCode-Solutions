@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/namannanda12/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
