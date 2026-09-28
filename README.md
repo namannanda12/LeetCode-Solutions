@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3498-reverse-degree-of-a-string](https://github.com/namannanda12/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
