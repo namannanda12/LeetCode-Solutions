@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Sorting
 |  |
