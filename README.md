@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
