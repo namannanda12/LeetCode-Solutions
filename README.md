@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
