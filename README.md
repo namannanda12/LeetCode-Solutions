@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2032-two-out-of-three](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2032-two-out-of-three](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2032-two-out-of-three](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
