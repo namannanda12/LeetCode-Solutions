@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2032-two-out-of-three](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/namannanda12/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/namannanda12/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/namannanda12/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3498-reverse-degree-of-a-string](https://github.com/namannanda12/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
